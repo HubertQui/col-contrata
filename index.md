@@ -44,7 +44,7 @@ Or install it yourself as:
 
     $ gem install millidocs
 
-## Available Layouts
+## Diseño
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, debitis exercitationem. Cupiditate accusantium minima temporibus quidem fugit quae. Consequatur veritatis dolores ex sunt quia quaerat animi temporibus exercitationem, sequi magnam!
 
