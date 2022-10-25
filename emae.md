@@ -3,6 +3,7 @@ layout: page
 title: EMAE
 navigation: 2
 ---
+![Banner](assets/images/bannercolcontrata.png)
 
 # EMAE
 
