@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PYTHON
+title: Python
 navigation: 3
 ---
 
